@@ -1,0 +1,22 @@
+{
+  "name": "andela",
+  "version": "1.0.0",
+  "description": "andela test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "test",
+    "andela"
+  ],
+  "author": "Max Houston Ramirez Martel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^7.5.3"
+  }
+}
